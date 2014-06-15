@@ -7,8 +7,13 @@
 
 #include <stdio.h>
 
+int sumar (int a, int b);
+
 int main(){
 	printf("Hola mundo!");
 	return 0;
 }
 
+int sumar(){
+	return a+b;
+}
