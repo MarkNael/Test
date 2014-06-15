@@ -10,7 +10,10 @@
 int sumar (int a, int b);
 
 int main(){
-	printf("Hola mundo!");
+	int i= 0;
+	for (i=0; i<10; i++){
+		printf("Hola mundo!");
+	}
 	return 0;
 }
 
